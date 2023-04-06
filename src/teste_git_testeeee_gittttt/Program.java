@@ -6,6 +6,8 @@ public class Program {
 
 
 		System.out.println("Olá Mundoooo!!!");
+		System.out.println("Olá Mundoooo!!!");
+		System.out.println("Olá Mundoooo!!!");
 
 	}
 
